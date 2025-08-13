@@ -40,7 +40,8 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.1"
+        kotlinCompilerExtensionVersion = "1.8.0"
+
     }
     packaging {
         resources {
@@ -52,7 +53,7 @@ android {
 dependencies {
     //module
     implementation(project(":feature:auth"))
-
+    implementation(platform("androidx.compose:compose-bom:2025.07.00"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
