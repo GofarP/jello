@@ -11,3 +11,13 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
 val VividMagenta=Color(0xffb620e0)
+
+val VeryLightGray= Color(0xffdcdcdc)
+val StrongGreen= Color(0xff6dd400)
+val LightOrange=Color(0xffffc33a)
+
+val VeryDarkGrayishBlue=Color(0xff414b5a)
+
+val ModerateBlue= Color(0xFF3D66B8)
+
+val VividRed= Color(0xFFE9421E)
