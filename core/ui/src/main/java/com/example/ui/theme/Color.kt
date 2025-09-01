@@ -21,3 +21,5 @@ val VeryDarkGrayishBlue=Color(0xff414b5a)
 val ModerateBlue= Color(0xFF3D66B8)
 
 val VividRed= Color(0xFFE9421E)
+
+val StrongBlue=Color(0xFF025ab4)

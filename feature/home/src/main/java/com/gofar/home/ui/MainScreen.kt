@@ -1,7 +1,6 @@
 package com.example.auth.signup
 
 import AccountScreen
-import HomeScreen
 import OrderScreen
 import ProductScreen
 import androidx.compose.foundation.layout.padding
@@ -28,6 +27,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.example.ui.theme.VeryDarkGrayishBlue
 import com.gofar.home.ui.BottomNavItem
+import com.gofar.home.ui.home.HomeScreen
 
 @Composable
 fun MainScreen() {
